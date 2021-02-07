@@ -2,6 +2,8 @@ PGP
 
 Script to send pgp files
 
+made this because i saw mocro maffia :)
+
 just change "gpg -> encrypt("Change here!");"
 
 - PGP(Pretty Good Privacy) is a product and trademark of Symantec Corporation.

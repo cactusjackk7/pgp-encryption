@@ -1,8 +1,8 @@
-PGP
+PP
 
 Script to send pgp files
 
-made this because i saw mocro maffia :)
+Made this because i saw mocro maffia :)
 
 just change "gpg -> encrypt("Change here!");"
 

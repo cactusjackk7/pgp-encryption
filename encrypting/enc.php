@@ -8,3 +8,5 @@
   $enc = $gpg -> encrypt("just a test");
   echo $enc;
 ?>
+
+
